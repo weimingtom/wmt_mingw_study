@@ -11,3 +11,8 @@ http://code.google.com/p/rainmeter/source/browse/trunk/Library/ccalc-0.5.1/?r=50
 tjumyk/Five_SDL  
 https://github.com/tjumyk/Five_SDL  
 
+* physics  
+iPhone Games Projects  
+http://www.apress.com/9781430219682  
+liudongbao/MAC-and-IPhone-src  
+https://github.com/liudongbao/MAC-and-IPhone-src  
