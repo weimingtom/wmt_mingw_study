@@ -16,3 +16,7 @@ iPhone Games Projects
 http://www.apress.com/9781430219682  
 liudongbao/MAC-and-IPhone-src  
 https://github.com/liudongbao/MAC-and-IPhone-src  
+
+* sgi  
+Generic Programming and the STL  
+use gcc version 3.4.5 (mingw-vista special r3)   
